@@ -36,3 +36,17 @@ iframe{
     border-radius: 5px;
     transform: translate(-50%,-50%);
 }
+#menu-v{
+    text-align: right;
+}
+a img{
+    width: 50px;
+    border-radius: 100px;
+    margin: 10px;
+    transition: 0.6s;
+}
+section img:hover{
+    transform: translate(-3px,0px);
+    margin-right: 30px;
+    border: 2px solid rgb(203, 203, 203);
+}
